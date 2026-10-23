@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lechatquidanse.github.io/sitemap.xml
